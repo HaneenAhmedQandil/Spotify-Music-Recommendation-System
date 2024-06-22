@@ -2,6 +2,9 @@
 
 This Music Recommendation System is a sophisticated application designed to enhance the music listening experience by providing personalized song recommendations. Leveraging advanced machine learning algorithms and the Spotify Web API, this system analyzes users' listening habits, preferences, and the intrinsic properties of music tracks to suggest songs that users are likely to enjoy.
 
+## Dataset Link
+[Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
+
 ## Features
 
 - **Personalized Recommendations**: Offers song suggestions tailored to the individual's music taste.
@@ -15,6 +18,7 @@ This Music Recommendation System is a sophisticated application designed to enha
 2. **Model Training**: Utilizes machine learning algorithms to analyze the collected data and identify patterns.
 3. **Recommendation Generation**: Based on the analysis, the system predicts and suggests songs that match the user's taste.
 4. **Feedback Loop**: Users' interactions with the recommendations are used to further refine and improve future suggestions.
+
 
 ## Getting Started
 
